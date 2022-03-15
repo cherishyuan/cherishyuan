@@ -17,7 +17,7 @@ I'm a Control engineering student who is passionate about writing code, solving 
 <!--[![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)-->
 <br/>
 <a href="https://github.com/cherishyuan">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherishyuan&theme=dracula&count_private=true&layout=compact" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherishyuan&theme=merko&&show_icons=true" />
 </a>
 <br/>
 
