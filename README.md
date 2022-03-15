@@ -1,9 +1,8 @@
 <!---
 cherishyuan/cherishyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xu.yuquan@outlook.com)](mailto:xu.yuquan@outlook.com)
 !--->
-
-- 👋 Hi, I’m cherishyuan
-#### Hi world! <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
+#### Hi world! I’m cherishyuan. <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 
 未遇繁花，十年悠长。
 
