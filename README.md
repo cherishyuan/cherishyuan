@@ -1,9 +1,9 @@
 <!---
 cherishyuan/cherishyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 !--->
-- 👋 Hi, I’m @cherishyuan
 
-### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
+- 👋 Hi, I’m cherishyuan
+#### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 
 未遇繁花，十年悠长。
 
