@@ -15,12 +15,9 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning path planning. --> 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xu.yuquan@outlook.com)](mailto:xu.yuquan@outlook.com)
 <!--[![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)-->
-<br/>
 <a href="https://github.com/cherishyuan">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cherishyuan&theme=merko&&show_icons=true" />
 </a>
-<br/>
-
 ### Thanks for visiting:eyes:
 ![VisitorCount](https://profile-counter.glitch.me/cherishyuan/count.svg)
 
