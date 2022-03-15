@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
-I'm a Control engineering student who is passionate about writing code, solving problems, automating stuff, and building software.
+wating.......
 <!-- - 👯 I want to be engaged in embedded work in the future.
 - 🌱 I’m currently learning path planning. -->                  
 - 📫 How to reach me: 🏹️[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xu.yuquan@outlook.com)](mailto:yuquanxu7@outlook.com)
