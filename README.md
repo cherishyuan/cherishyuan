@@ -12,7 +12,8 @@ You can click the Preview link to take a look at your changes.
 ### Hi world!  <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 未遇繁花，十年悠长。
 <!-- - 👯 I want to be engaged in embedded work in the future.
-- 🌱 I’m currently learning path planning. --> [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xu.yuquan@outlook.com)](mailto:xu.yuquan@outlook.com)
+- 🌱 I’m currently learning path planning. --> 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:xu.yuquan@outlook.com)](mailto:xu.yuquan@outlook.com)
 <!--[![Bilibili Badge](https://img.shields.io/badge/-BiliBili-D14970?style=flat-square&logo=Bilibili&logoColor=white&link=https://space.bilibili.com/286892977)](https://space.bilibili.com/286892977)-->
 <br/>
 <a href="https://github.com/cherishyuan">
