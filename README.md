@@ -16,7 +16,6 @@
 <summary>💖 Other</summary>
 
 <img alt="huaizhi stats" width="360" src="https://github-readme-stats.vercel.app/api?username=cherishyuan&show_icons=true&bg_color=320,323031,84a59d&icon_color=b0c4b1&title_color=eec170&text_color=a2a392&include_all_commits=true"><br>
-<img alt="huaizhi's wakatime stats" width="360" src="https://github-readme-stats.vercel.app/api/wakatime?username=cherishyuan&layout=compact&bg_color=150,323031,84a59d&title_color=eec170&text_color=a2a392">
 
 <!-- <a href="https://github.com/lencx/z/discussions/2"><img alt="浮之静" width="480" src="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png"></a> -->
 
