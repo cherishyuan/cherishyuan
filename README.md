@@ -3,6 +3,8 @@
   {未遇繁花，十年悠长⇌ 思考]ing，在路上...
 </h4>
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 #### Hi world! I’m cherishyuan. <img src="https://github.com/XuYuQuan0713/Picture/blob/main/Earth.gif" width="20px">
 
 ![cherish's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherishyuan&theme=merko&&show_icons=true)
